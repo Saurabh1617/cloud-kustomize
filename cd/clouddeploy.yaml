@@ -15,4 +15,4 @@ metadata:
  name: devtarget
 description: development namespace
 gke:
- cluster: projects/My First Project//locations/us-central1-c/clusters/ci-cd
+ cluster: projects/My First Project/locations/us-central1-c/clusters/ci-cd
