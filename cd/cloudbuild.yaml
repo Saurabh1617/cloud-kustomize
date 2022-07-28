@@ -7,4 +7,4 @@ steps:
      - >
        gcloud deploy releases create rel-$(date +%y%m%d-%s)
        --delivery-pipeline=cloud-deploy-kus
-       --region=us-central1  --images=myapp-image=${_TAG_NAME}
+    --region=us-central1  --images=myapp-image=gcr.io/lexical-emblem-351107/myapp:v11
