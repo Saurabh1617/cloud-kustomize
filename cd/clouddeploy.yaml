@@ -15,4 +15,4 @@ metadata:
  name: devtarget
 description: development namespace
 gke:
- cluster: projects/lexical-emblem-351107/locations/us-central1-c/clusters/ci-cde
+ cluster: projects/lexical-emblem-351107/locations/us-central1-c/clusters/ci-cd
