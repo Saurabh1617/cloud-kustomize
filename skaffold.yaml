@@ -6,8 +6,3 @@ profiles:
       kustomize:
         paths:
           - cd/env/dev
-  - name: qa
-    deploy:
-      kustomize:
-        paths:
-          - cd/env/qa
